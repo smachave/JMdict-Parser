@@ -1,6 +1,6 @@
 {
   "name": "jmdict-parser",
-  "version": "2.1.8",
+  "version": "2.2.0",
   "description": "Converts JMdict XML files into JSON",
   "main": "lib/index.js",
   "repository": "https://github.com/smachave/JMdict-Parser.git",
