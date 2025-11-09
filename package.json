@@ -18,15 +18,15 @@
     "ink-spinner": "^3.0.0",
     "react": "^16.8.4",
     "xml-escape": "^1.1.0",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
     "@babel/preset-react": "^7.0.0",
-    "eslint": "^5.15.1",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint": "^9.39.1",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4"
