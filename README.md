@@ -89,7 +89,3 @@ jmdict-parser <your_edict_file>
 ```
 
 * This would generate a `.json` file in the same location as the original file.
-
-## Download a sample
-
-I have already created one for the English only JMdict file. You may download it from [here](https://droppy.cryf.in/$/qfxsg).
