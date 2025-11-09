@@ -78,7 +78,7 @@ For more information about the key names read the comments at the start of the o
 
 ## Usage
 
-* Head over to the [JMdict](http://www.edrdg.org/jmdict/edict_doc.html) website and download the **JMdict** dictionary file suitable for you. Also, you would need to extract it as it would be archived.
+* Head over to the [JMdict](https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html#CURRENT_VERSION_&_DOWNLOAD) website and download the **JMdict** dictionary file suitable for you. Also, you would need to extract it as it would be archived.
 
 * Install the CLI. See [here](#Installation).
 
