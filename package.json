@@ -3,8 +3,8 @@
   "version": "2.1.6",
   "description": "Converts JMdict XML files into JSON",
   "main": "lib/index.js",
-  "repository": "https://github.com/tkshnwesper/JMdict-Parser.git",
-  "author": "Saurabh <unknown7bolt@gmail.com>",
+  "repository": "https://github.com/smachave/JMdict-Parser.git",
+  "author": "smachave",
   "license": "Apache-2.0",
   "scripts": {
     "build": "babel src -d lib",
